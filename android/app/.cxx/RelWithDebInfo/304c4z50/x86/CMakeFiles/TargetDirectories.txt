@@ -1,0 +1,2 @@
+E:/C Disk file/opg_pro/android/app/.cxx/RelWithDebInfo/304c4z50/x86/CMakeFiles/edit_cache.dir
+E:/C Disk file/opg_pro/android/app/.cxx/RelWithDebInfo/304c4z50/x86/CMakeFiles/rebuild_cache.dir

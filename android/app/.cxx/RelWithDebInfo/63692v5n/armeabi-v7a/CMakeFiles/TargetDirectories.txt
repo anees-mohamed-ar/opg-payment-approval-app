@@ -1,0 +1,2 @@
+D:/C Disk file/StudioProjects/opg_pro/android/app/.cxx/RelWithDebInfo/63692v5n/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/C Disk file/StudioProjects/opg_pro/android/app/.cxx/RelWithDebInfo/63692v5n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
